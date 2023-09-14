@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hello Sookmyung MathMathics!\n");
-	return 0;
+	printf("3+4=7");
+	return 0;l;
 }
